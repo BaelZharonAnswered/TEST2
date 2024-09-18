@@ -1,0 +1,261 @@
+{
+  "wcid": 3037857,
+  "weenieType": 35,
+  "boolStats": [
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 1
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 1
+    },
+    {
+      "key": 22,
+      "value": 1
+    },
+    {
+      "key": 100,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 32768
+    },
+    {
+      "key": 3,
+      "value": 4
+    },
+    {
+      "key": 5,
+      "value": 100
+    },
+    {
+      "key": 8,
+      "value": 90
+    },
+    {
+      "key": 9,
+      "value": 16777216
+    },
+    {
+      "key": 16,
+      "value": 6291460
+    },
+    {
+      "key": 18,
+      "value": 32
+    },
+    {
+      "key": 19,
+      "value": 50000
+    },
+    {
+      "key": 26,
+      "value": 1
+    },
+    {
+      "key": 45,
+      "value": 2
+    },
+    {
+      "key": 46,
+      "value": 512
+    },
+    {
+      "key": 52,
+      "value": 1
+    },
+    {
+      "key": 53,
+      "value": 101
+    },
+    {
+      "key": 93,
+      "value": 1044
+    },
+    {
+      "key": 94,
+      "value": 16
+    },
+    {
+      "key": 106,
+      "value": 350
+    },
+    {
+      "key": 107,
+      "value": 6000
+    },
+    {
+      "key": 108,
+      "value": 6000
+    },
+    {
+      "key": 109,
+      "value": 0
+    },
+    {
+      "key": 110,
+      "value": 0
+    },
+    {
+      "key": 117,
+      "value": 30
+    },
+    {
+      "key": 151,
+      "value": 2
+    },
+    {
+      "key": 169,
+      "value": 118162702
+    },
+    {
+      "key": 179,
+      "value": 512
+    },
+    {
+      "key": 265,
+      "value": 41
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33559426
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 6,
+      "value": 67111919
+    },
+    {
+      "key": 8,
+      "value": 100686855
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    },
+    {
+      "key": 27,
+      "value": 1073742048
+    },
+    {
+      "key": 28,
+      "value": 2073
+    },
+    {
+      "key": 36,
+      "value": 234881042
+    },
+    {
+      "key": 46,
+      "value": 939524146
+    },
+    {
+      "key": 52,
+      "value": 100686604
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 5,
+      "value": -0.0333333
+    },
+    {
+      "key": 12,
+      "value": 0.66
+    },
+    {
+      "key": 29,
+      "value": 1.2
+    },
+    {
+      "key": 39,
+      "value": 1.2
+    },
+    {
+      "key": 136,
+      "value": 3
+    },
+    {
+      "key": 144,
+      "value": 0.2
+    }
+  ],
+  "int64Stats": [
+    {
+      "key": 4,
+      "value": 0
+    },
+    {
+      "key": 5,
+      "value": 2000000000
+    }
+  ],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Limb of the Occultist"
+    },
+    {
+      "key": 16,
+      "value": "Ancient imbued limb of an Occultist of Bael'"
+    }
+  ],
+  "spellbook": [
+    {
+      "key": 995,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 4464,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 4468,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 4494,
+      "value": {
+        "casting_likelihood": 2
+      }
+    },
+    {
+      "key": 4705,
+      "value": {
+        "casting_likelihood": 2
+      }
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2024-09-15T03:20:06.0424347Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

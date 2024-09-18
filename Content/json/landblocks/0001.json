@@ -1,0 +1,2393 @@
+{
+  "key": 65536,
+  "value": {
+    "links": [
+      {
+        "target": 1879052288,
+        "source": 1879052296,
+        "desc": "Eater(eater)(wcid: 28640) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052297,
+        "desc": "Famished Eater(ace31225-famishedeater)(wcid: 31225) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052298,
+        "desc": "Engorged Eater(eaterengorged)(wcid: 28642) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052299,
+        "desc": "Eater(eater)(wcid: 28640) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052300,
+        "desc": "Famished Eater(ace31225-famishedeater)(wcid: 31225) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052301,
+        "desc": "Engorged Eater(eaterengorged)(wcid: 28642) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052302,
+        "desc": "Eater(eater)(wcid: 28640) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052303,
+        "desc": "Famished Eater(ace31225-famishedeater)(wcid: 31225) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052304,
+        "desc": "Engorged Eater(eaterengorged)(wcid: 28642) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052305,
+        "desc": "Eater(eater)(wcid: 28640) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052306,
+        "desc": "Famished Eater(ace31225-famishedeater)(wcid: 31225) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052307,
+        "desc": "Engorged Eater(eaterengorged)(wcid: 28642) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052308,
+        "desc": "Engorged Eater(eaterengorged)(wcid: 28642) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052309,
+        "desc": "Engorged Eater(eaterengorged)(wcid: 28642) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052310,
+        "desc": "Engorged Eater(eaterengorged)(wcid: 28642) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052311,
+        "desc": "Engorged Eater(eaterengorged)(wcid: 28642) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052312,
+        "desc": "Engorged Eater(eaterengorged)(wcid: 28642) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052313,
+        "desc": "Engorged Eater(eaterengorged)(wcid: 28642) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052314,
+        "desc": "Eater(eater)(wcid: 28640) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052315,
+        "desc": "Famished Eater(ace31225-famishedeater)(wcid: 31225) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052316,
+        "desc": "Engorged Eater(eaterengorged)(wcid: 28642) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052317,
+        "desc": "Eater(eater)(wcid: 28640) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052318,
+        "desc": "Famished Eater(ace31225-famishedeater)(wcid: 31225) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052319,
+        "desc": "Engorged Eater(eaterengorged)(wcid: 28642) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052320,
+        "desc": "Eater(eater)(wcid: 28640) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052321,
+        "desc": "Famished Eater(ace31225-famishedeater)(wcid: 31225) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052322,
+        "desc": "Engorged Eater(eaterengorged)(wcid: 28642) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052323,
+        "desc": "Raving Fiun(fiunraving)(wcid: 28647) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052324,
+        "desc": "Raving Fiun(fiunraving)(wcid: 28647) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052325,
+        "desc": "Raving Fiun(fiunraving)(wcid: 28647) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052326,
+        "desc": "Raving Fiun(fiunraving)(wcid: 28647) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052327,
+        "desc": "Raving Fiun(fiunraving)(wcid: 28647) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052328,
+        "desc": "Raving Fiun(fiunraving)(wcid: 28647) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052329,
+        "desc": "Raving Fiun(fiunraving)(wcid: 28647) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052330,
+        "desc": "Engorged Eater(eaterengorged)(wcid: 28642) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052331,
+        "desc": "Raving Fiun(fiunraving)(wcid: 28647) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052332,
+        "desc": "Engorged Eater(eaterengorged)(wcid: 28642) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052333,
+        "desc": "Raving Fiun(fiunraving)(wcid: 28647) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052334,
+        "desc": "Raving Fiun(fiunraving)(wcid: 28647) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052335,
+        "desc": "Raving Fiun(fiunraving)(wcid: 28647) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052336,
+        "desc": "Raving Fiun(fiunraving)(wcid: 28647) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052337,
+        "desc": "Raving Fiun(fiunraving)(wcid: 28647) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052338,
+        "desc": "Raving Fiun(fiunraving)(wcid: 28647) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052339,
+        "desc": "Raving Fiun(fiunraving)(wcid: 28647) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052340,
+        "desc": "Raving Fiun(fiunraving)(wcid: 28647) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052341,
+        "desc": "Raving Fiun(fiunraving)(wcid: 28647) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052342,
+        "desc": "Raving Fiun(fiunraving)(wcid: 28647) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052343,
+        "desc": "Raving Fiun(fiunraving)(wcid: 28647) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052344,
+        "desc": "Raving Fiun(fiunraving)(wcid: 28647) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052345,
+        "desc": "Raving Fiun(fiunraving)(wcid: 28647) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052346,
+        "desc": "Raving Fiun(fiunraving)(wcid: 28647) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052347,
+        "desc": "Raving Fiun(fiunraving)(wcid: 28647) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052348,
+        "desc": "Eater(eater)(wcid: 28640) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052349,
+        "desc": "Famished Eater(ace31225-famishedeater)(wcid: 31225) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052350,
+        "desc": "Engorged Eater(eaterengorged)(wcid: 28642) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052351,
+        "desc": "Eater(eater)(wcid: 28640) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052352,
+        "desc": "Famished Eater(ace31225-famishedeater)(wcid: 31225) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052353,
+        "desc": "Engorged Eater(eaterengorged)(wcid: 28642) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052354,
+        "desc": "Eater(eater)(wcid: 28640) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052355,
+        "desc": "Famished Eater(ace31225-famishedeater)(wcid: 31225) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052356,
+        "desc": "Engorged Eater(eaterengorged)(wcid: 28642) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052357,
+        "desc": "Eater(eater)(wcid: 28640) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052358,
+        "desc": "Famished Eater(ace31225-famishedeater)(wcid: 31225) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052359,
+        "desc": "Engorged Eater(eaterengorged)(wcid: 28642) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052360,
+        "desc": "Eater(eater)(wcid: 28640) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052361,
+        "desc": "Famished Eater(ace31225-famishedeater)(wcid: 31225) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052362,
+        "desc": "Engorged Eater(eaterengorged)(wcid: 28642) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052363,
+        "desc": "Eater(eater)(wcid: 28640) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052364,
+        "desc": "Famished Eater(ace31225-famishedeater)(wcid: 31225) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052365,
+        "desc": "Engorged Eater(eaterengorged)(wcid: 28642) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052366,
+        "desc": "Eater(eater)(wcid: 28640) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052367,
+        "desc": "Famished Eater(ace31225-famishedeater)(wcid: 31225) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052368,
+        "desc": "Engorged Eater(eaterengorged)(wcid: 28642) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052369,
+        "desc": "Engorged Eater(eaterengorged)(wcid: 28642) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052370,
+        "desc": "Engorged Eater(eaterengorged)(wcid: 28642) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052371,
+        "desc": "Engorged Eater(eaterengorged)(wcid: 28642) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052372,
+        "desc": "Engorged Eater(eaterengorged)(wcid: 28642) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052373,
+        "desc": "Engorged Eater(eaterengorged)(wcid: 28642) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052374,
+        "desc": "Engorged Eater(eaterengorged)(wcid: 28642) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052375,
+        "desc": "Engorged Eater(eaterengorged)(wcid: 28642) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052288,
+        "source": 1879052376,
+        "desc": "Engorged Eater(eaterengorged)(wcid: 28642) -> linkmonstergen5minutes(wcid: 7924)"
+      },
+      {
+        "target": 1879052289,
+        "source": 1879052295,
+        "desc": "Brewmaster's Front Cover(trophybrewmasterbiblepiece2)(wcid: 29205) -> linkitemgen25seconds(wcid: 5085)"
+      },
+      {
+        "target": 1879052290,
+        "source": 1879052377,
+        "desc": "Engorged Eater(eaterengorgedjawdropper)(wcid: 28849) -> linkmonstergen2minutes(wcid: 24129)"
+      },
+      {
+        "target": 1879052290,
+        "source": 1879052378,
+        "desc": "Engorged Eater(eaterengorgedjawdropper)(wcid: 28849) -> linkmonstergen2minutes(wcid: 24129)"
+      },
+      {
+        "target": 1879052290,
+        "source": 1879052379,
+        "desc": "Engorged Eater(eaterengorgedjawdropper)(wcid: 28849) -> linkmonstergen2minutes(wcid: 24129)"
+      },
+      {
+        "target": 1879052290,
+        "source": 1879052380,
+        "desc": "Engorged Eater(eaterengorgedjawdropper)(wcid: 28849) -> linkmonstergen2minutes(wcid: 24129)"
+      }
+    ],
+    "weenies": [
+      {
+        "id": 1879052288,
+        "wcid": 7924,
+        "desc": "Linkable Monster Generator ( 5 Min.)(linkmonstergen5minutes)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 73.2987,
+              "y": 3.15926,
+              "z": 0.005
+            },
+            "angles": {
+              "w": 0.174196,
+              "x": 0,
+              "y": 0,
+              "z": 0.984711
+            }
+          },
+          "objcell_id": 66247
+        }
+      },
+      {
+        "id": 1879052289,
+        "wcid": 5085,
+        "desc": "Linkable Item Gen - 25 seconds(linkitemgen25seconds)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 74.2953,
+              "y": 0.33527,
+              "z": 0.005
+            },
+            "angles": {
+              "w": 0.099922,
+              "x": 0,
+              "y": 0,
+              "z": 0.994995
+            }
+          },
+          "objcell_id": 66247
+        }
+      },
+      {
+        "id": 1879052290,
+        "wcid": 24129,
+        "desc": "Linkable Monster Generator ( 2 Min.)(linkmonstergen2minutes)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 49.6614,
+              "y": -183.977,
+              "z": -89.995
+            },
+            "angles": {
+              "w": 0.998818,
+              "x": 0,
+              "y": 0,
+              "z": 0.048606
+            }
+          },
+          "objcell_id": 65821
+        }
+      },
+      {
+        "id": 1879052291,
+        "wcid": 28783,
+        "desc": "Surface(portalremoteempvaultexit)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 67.16,
+              "y": -12.62,
+              "z": 0
+            },
+            "angles": {
+              "w": -0.94,
+              "x": 0,
+              "y": 0,
+              "z": 0.34
+            }
+          },
+          "objcell_id": 66248
+        }
+      },
+      {
+        "id": 1879052292,
+        "wcid": 28783,
+        "desc": "Surface(portalremoteempvaultexit)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 49.97,
+              "y": -170.28,
+              "z": -90
+            },
+            "angles": {
+              "w": 0,
+              "x": 0,
+              "y": 0,
+              "z": 1
+            }
+          },
+          "objcell_id": 65819
+        }
+      },
+      {
+        "id": 1879052293,
+        "wcid": 27562,
+        "desc": "Door(doorarchall)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 110.07,
+              "y": -73.48,
+              "z": -18
+            },
+            "angles": {
+              "w": 1,
+              "x": 0,
+              "y": 0,
+              "z": 0.01
+            }
+          },
+          "objcell_id": 66142
+        }
+      },
+      {
+        "id": 1879052294,
+        "wcid": 29060,
+        "desc": "Old Chest(chesthealingtihn)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 109.95,
+              "y": -86.66,
+              "z": -18
+            },
+            "angles": {
+              "w": -0.01472,
+              "x": 0,
+              "y": 0,
+              "z": -0.999892
+            }
+          },
+          "objcell_id": 66150
+        }
+      },
+      {
+        "id": 1879052295,
+        "wcid": 29205,
+        "desc": "Brewmaster's Front Cover(trophybrewmasterbiblepiece2)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 60.2502,
+              "y": -67.8911,
+              "z": -23.995
+            },
+            "angles": {
+              "w": -0.296246,
+              "x": 0,
+              "y": 0,
+              "z": -0.955112
+            }
+          },
+          "objcell_id": 66084
+        }
+      },
+      {
+        "id": 1879052296,
+        "wcid": 28640,
+        "desc": "Eater(eater)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 90.07,
+              "y": -30.22,
+              "z": -5.995
+            },
+            "angles": {
+              "w": -0.009999,
+              "x": 0,
+              "y": 0,
+              "z": 0.99995
+            }
+          },
+          "objcell_id": 66217
+        }
+      },
+      {
+        "id": 1879052297,
+        "wcid": 31225,
+        "desc": "Famished Eater(ace31225-famishedeater)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 100.108,
+              "y": -30.534,
+              "z": -5.995
+            },
+            "angles": {
+              "w": -0.992942,
+              "x": 0,
+              "y": 0,
+              "z": -0.118603
+            }
+          },
+          "objcell_id": 66231
+        }
+      },
+      {
+        "id": 1879052298,
+        "wcid": 28642,
+        "desc": "Engorged Eater(eaterengorged)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 99.8802,
+              "y": -39.2551,
+              "z": -5.995
+            },
+            "angles": {
+              "w": -0.999645,
+              "x": 0,
+              "y": 0,
+              "z": -0.026655
+            }
+          },
+          "objcell_id": 66234
+        }
+      },
+      {
+        "id": 1879052299,
+        "wcid": 28640,
+        "desc": "Eater(eater)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 90.2064,
+              "y": -40.1033,
+              "z": -5.995
+            },
+            "angles": {
+              "w": -0.999981,
+              "x": 0,
+              "y": 0,
+              "z": 0.006106
+            }
+          },
+          "objcell_id": 66222
+        }
+      },
+      {
+        "id": 1879052300,
+        "wcid": 31225,
+        "desc": "Famished Eater(ace31225-famishedeater)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 79.8077,
+              "y": -40.1556,
+              "z": -5.995
+            },
+            "angles": {
+              "w": -0.999355,
+              "x": 0,
+              "y": 0,
+              "z": -0.035909
+            }
+          },
+          "objcell_id": 66210
+        }
+      },
+      {
+        "id": 1879052301,
+        "wcid": 28642,
+        "desc": "Engorged Eater(eaterengorged)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 79.19,
+              "y": -30.61,
+              "z": -5.995
+            },
+            "angles": {
+              "w": 0.99995,
+              "x": 0,
+              "y": 0,
+              "z": 0.009999
+            }
+          },
+          "objcell_id": 66207
+        }
+      },
+      {
+        "id": 1879052302,
+        "wcid": 28640,
+        "desc": "Eater(eater)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 90.22,
+              "y": -59.44,
+              "z": -11.995
+            },
+            "angles": {
+              "w": -0.019996,
+              "x": 0,
+              "y": 0,
+              "z": -0.9998
+            }
+          },
+          "objcell_id": 66182
+        }
+      },
+      {
+        "id": 1879052303,
+        "wcid": 31225,
+        "desc": "Famished Eater(ace31225-famishedeater)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 73.4496,
+              "y": -59.766,
+              "z": -11.995
+            },
+            "angles": {
+              "w": 0.999643,
+              "x": 0,
+              "y": 0,
+              "z": 0.026728
+            }
+          },
+          "objcell_id": 66177
+        }
+      },
+      {
+        "id": 1879052304,
+        "wcid": 28642,
+        "desc": "Engorged Eater(eaterengorged)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 60.32,
+              "y": -46.4157,
+              "z": -11.995
+            },
+            "angles": {
+              "w": 0.998059,
+              "x": 0,
+              "y": 0,
+              "z": -0.062281
+            }
+          },
+          "objcell_id": 66173
+        }
+      },
+      {
+        "id": 1879052305,
+        "wcid": 28640,
+        "desc": "Eater(eater)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 60.0733,
+              "y": -30.7058,
+              "z": -11.995
+            },
+            "angles": {
+              "w": 5.8E-05,
+              "x": 0,
+              "y": 0,
+              "z": -1
+            }
+          },
+          "objcell_id": 66171
+        }
+      },
+      {
+        "id": 1879052306,
+        "wcid": 31225,
+        "desc": "Famished Eater(ace31225-famishedeater)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 60.6657,
+              "y": -19.7793,
+              "z": -11.995
+            },
+            "angles": {
+              "w": -0.018691,
+              "x": 0,
+              "y": 0,
+              "z": -0.999825
+            }
+          },
+          "objcell_id": 66170
+        }
+      },
+      {
+        "id": 1879052307,
+        "wcid": 28642,
+        "desc": "Engorged Eater(eaterengorged)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 74.6813,
+              "y": -11.1405,
+              "z": -11.995
+            },
+            "angles": {
+              "w": -0.657279,
+              "x": 0,
+              "y": 0,
+              "z": -0.753647
+            }
+          },
+          "objcell_id": 66174
+        }
+      },
+      {
+        "id": 1879052308,
+        "wcid": 28642,
+        "desc": "Engorged Eater(eaterengorged)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 89.1247,
+              "y": -9.5781,
+              "z": -11.995
+            },
+            "angles": {
+              "w": -0.721837,
+              "x": 0,
+              "y": 0,
+              "z": -0.692063
+            }
+          },
+          "objcell_id": 66180
+        }
+      },
+      {
+        "id": 1879052309,
+        "wcid": 28642,
+        "desc": "Engorged Eater(eaterengorged)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 107.156,
+              "y": -9.48527,
+              "z": -11.995
+            },
+            "angles": {
+              "w": -0.704613,
+              "x": 0,
+              "y": 0,
+              "z": -0.709591
+            }
+          },
+          "objcell_id": 66185
+        }
+      },
+      {
+        "id": 1879052310,
+        "wcid": 28642,
+        "desc": "Engorged Eater(eaterengorged)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 120.551,
+              "y": -19.3689,
+              "z": -11.995
+            },
+            "angles": {
+              "w": 0.325606,
+              "x": 0,
+              "y": 0,
+              "z": 0.945505
+            }
+          },
+          "objcell_id": 66189
+        }
+      },
+      {
+        "id": 1879052311,
+        "wcid": 28642,
+        "desc": "Engorged Eater(eaterengorged)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 121.683,
+              "y": -33.398,
+              "z": -11.995
+            },
+            "angles": {
+              "w": 0.751476,
+              "x": 0,
+              "y": 0,
+              "z": 0.65976
+            }
+          },
+          "objcell_id": 66190
+        }
+      },
+      {
+        "id": 1879052312,
+        "wcid": 28642,
+        "desc": "Engorged Eater(eaterengorged)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 119.67,
+              "y": -45.3483,
+              "z": -11.995
+            },
+            "angles": {
+              "w": 0.999838,
+              "x": 0,
+              "y": 0,
+              "z": -0.018
+            }
+          },
+          "objcell_id": 66192
+        }
+      },
+      {
+        "id": 1879052313,
+        "wcid": 28642,
+        "desc": "Engorged Eater(eaterengorged)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 106.013,
+              "y": -61.2715,
+              "z": -11.995
+            },
+            "angles": {
+              "w": 0.99997,
+              "x": 0,
+              "y": 0,
+              "z": 0.007749
+            }
+          },
+          "objcell_id": 66188
+        }
+      },
+      {
+        "id": 1879052314,
+        "wcid": 28640,
+        "desc": "Eater(eater)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 90.25,
+              "y": -40.13,
+              "z": -17.995
+            },
+            "angles": {
+              "w": 0.019996,
+              "x": 0,
+              "y": 0,
+              "z": -0.9998
+            }
+          },
+          "objcell_id": 66123
+        }
+      },
+      {
+        "id": 1879052315,
+        "wcid": 31225,
+        "desc": "Famished Eater(ace31225-famishedeater)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 99.8906,
+              "y": -45.9642,
+              "z": -17.995
+            },
+            "angles": {
+              "w": 0.991446,
+              "x": 0,
+              "y": 0,
+              "z": 0.13052
+            }
+          },
+          "objcell_id": 66129
+        }
+      },
+      {
+        "id": 1879052316,
+        "wcid": 28642,
+        "desc": "Engorged Eater(eaterengorged)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 119.631,
+              "y": -40.0794,
+              "z": -17.995
+            },
+            "angles": {
+              "w": -0.710967,
+              "x": 0,
+              "y": 0,
+              "z": -0.703225
+            }
+          },
+          "objcell_id": 66152
+        }
+      },
+      {
+        "id": 1879052317,
+        "wcid": 28640,
+        "desc": "Eater(eater)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 125.94,
+              "y": -49.9989,
+              "z": -17.995
+            },
+            "angles": {
+              "w": -0.69177,
+              "x": 0,
+              "y": 0,
+              "z": -0.722118
+            }
+          },
+          "objcell_id": 66168
+        }
+      },
+      {
+        "id": 1879052318,
+        "wcid": 31225,
+        "desc": "Famished Eater(ace31225-famishedeater)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 114.572,
+              "y": -50.0579,
+              "z": -17.995
+            },
+            "angles": {
+              "w": -0.702432,
+              "x": 0,
+              "y": 0,
+              "z": 0.711751
+            }
+          },
+          "objcell_id": 66136
+        }
+      },
+      {
+        "id": 1879052319,
+        "wcid": 28642,
+        "desc": "Engorged Eater(eaterengorged)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 125.889,
+              "y": -60.0217,
+              "z": -17.995
+            },
+            "angles": {
+              "w": 0.69029,
+              "x": 0,
+              "y": 0,
+              "z": 0.723533
+            }
+          },
+          "objcell_id": 66169
+        }
+      },
+      {
+        "id": 1879052320,
+        "wcid": 28640,
+        "desc": "Eater(eater)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 109.428,
+              "y": -60.579,
+              "z": -17.995
+            },
+            "angles": {
+              "w": 0.491732,
+              "x": 0,
+              "y": 0,
+              "z": -0.870747
+            }
+          },
+          "objcell_id": 66138
+        }
+      },
+      {
+        "id": 1879052321,
+        "wcid": 31225,
+        "desc": "Famished Eater(ace31225-famishedeater)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 109.752,
+              "y": -80.4285,
+              "z": -17.995
+            },
+            "angles": {
+              "w": -0.999967,
+              "x": 0,
+              "y": 0,
+              "z": 0.008185
+            }
+          },
+          "objcell_id": 66148
+        }
+      },
+      {
+        "id": 1879052322,
+        "wcid": 28642,
+        "desc": "Engorged Eater(eaterengorged)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 109.667,
+              "y": -84.4808,
+              "z": -17.995
+            },
+            "angles": {
+              "w": -0.999898,
+              "x": 0,
+              "y": 0,
+              "z": -0.014267
+            }
+          },
+          "objcell_id": 66147
+        }
+      },
+      {
+        "id": 1879052323,
+        "wcid": 28647,
+        "desc": "Raving Fiun(fiunraving)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 116.494,
+              "y": -80.0482,
+              "z": -17.995
+            },
+            "angles": {
+              "w": -0.709229,
+              "x": 0,
+              "y": 0,
+              "z": -0.704978
+            }
+          },
+          "objcell_id": 66167
+        }
+      },
+      {
+        "id": 1879052324,
+        "wcid": 28647,
+        "desc": "Raving Fiun(fiunraving)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 103.255,
+              "y": -80.0486,
+              "z": -17.995
+            },
+            "angles": {
+              "w": 0.704266,
+              "x": 0,
+              "y": 0,
+              "z": -0.709937
+            }
+          },
+          "objcell_id": 66134
+        }
+      },
+      {
+        "id": 1879052325,
+        "wcid": 28647,
+        "desc": "Raving Fiun(fiunraving)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 108.85,
+              "y": -69.75,
+              "z": -17.995
+            },
+            "angles": {
+              "w": 0.99995,
+              "x": 0,
+              "y": 0,
+              "z": 0.009999
+            }
+          },
+          "objcell_id": 66143
+        }
+      },
+      {
+        "id": 1879052326,
+        "wcid": 28647,
+        "desc": "Raving Fiun(fiunraving)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 80.0605,
+              "y": -58.9498,
+              "z": -17.995
+            },
+            "angles": {
+              "w": -0.997887,
+              "x": 0,
+              "y": 0,
+              "z": 0.064975
+            }
+          },
+          "objcell_id": 66115
+        }
+      },
+      {
+        "id": 1879052327,
+        "wcid": 28647,
+        "desc": "Raving Fiun(fiunraving)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 69.6377,
+              "y": -60.9588,
+              "z": -17.995
+            },
+            "angles": {
+              "w": -0.925352,
+              "x": 0,
+              "y": 0,
+              "z": 0.379109
+            }
+          },
+          "objcell_id": 66106
+        }
+      },
+      {
+        "id": 1879052328,
+        "wcid": 28647,
+        "desc": "Raving Fiun(fiunraving)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 70.2696,
+              "y": -51.6668,
+              "z": -17.995
+            },
+            "angles": {
+              "w": -0.856442,
+              "x": 0,
+              "y": 0,
+              "z": 0.516243
+            }
+          },
+          "objcell_id": 66101
+        }
+      },
+      {
+        "id": 1879052329,
+        "wcid": 28647,
+        "desc": "Raving Fiun(fiunraving)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 50.87,
+              "y": -41.82,
+              "z": -23.995
+            },
+            "angles": {
+              "w": 0.009999,
+              "x": 0,
+              "y": 0,
+              "z": 0.99995
+            }
+          },
+          "objcell_id": 66079
+        }
+      },
+      {
+        "id": 1879052330,
+        "wcid": 28642,
+        "desc": "Engorged Eater(eaterengorged)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 49.1606,
+              "y": -58.79,
+              "z": -23.995
+            },
+            "angles": {
+              "w": 0.679451,
+              "x": 0,
+              "y": 0,
+              "z": -0.733721
+            }
+          },
+          "objcell_id": 66081
+        }
+      },
+      {
+        "id": 1879052331,
+        "wcid": 28647,
+        "desc": "Raving Fiun(fiunraving)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 49.9694,
+              "y": -69.4142,
+              "z": -23.995
+            },
+            "angles": {
+              "w": 0.996675,
+              "x": 0,
+              "y": 0,
+              "z": -0.081477
+            }
+          },
+          "objcell_id": 66082
+        }
+      },
+      {
+        "id": 1879052332,
+        "wcid": 28642,
+        "desc": "Engorged Eater(eaterengorged)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 54.6539,
+              "y": -79.592,
+              "z": -23.995
+            },
+            "angles": {
+              "w": 0.975826,
+              "x": 0,
+              "y": 0,
+              "z": -0.21855
+            }
+          },
+          "objcell_id": 66083
+        }
+      },
+      {
+        "id": 1879052333,
+        "wcid": 28647,
+        "desc": "Raving Fiun(fiunraving)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 70.7757,
+              "y": -81.8854,
+              "z": -23.995
+            },
+            "angles": {
+              "w": 0.959187,
+              "x": 0,
+              "y": 0,
+              "z": 0.282773
+            }
+          },
+          "objcell_id": 66087
+        }
+      },
+      {
+        "id": 1879052334,
+        "wcid": 28647,
+        "desc": "Raving Fiun(fiunraving)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 89.6919,
+              "y": -80.4903,
+              "z": -23.995
+            },
+            "angles": {
+              "w": 0.744178,
+              "x": 0,
+              "y": 0,
+              "z": 0.667981
+            }
+          },
+          "objcell_id": 66089
+        }
+      },
+      {
+        "id": 1879052335,
+        "wcid": 28647,
+        "desc": "Raving Fiun(fiunraving)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 30.18,
+              "y": -63.66,
+              "z": -29.995
+            },
+            "angles": {
+              "w": 0.04419,
+              "x": 0,
+              "y": 0,
+              "z": -0.999023
+            }
+          },
+          "objcell_id": 66036
+        }
+      },
+      {
+        "id": 1879052336,
+        "wcid": 28647,
+        "desc": "Raving Fiun(fiunraving)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 29.694,
+              "y": -79.8319,
+              "z": -29.995
+            },
+            "angles": {
+              "w": 0.999814,
+              "x": 0,
+              "y": 0,
+              "z": 0.0193
+            }
+          },
+          "objcell_id": 66043
+        }
+      },
+      {
+        "id": 1879052337,
+        "wcid": 28647,
+        "desc": "Raving Fiun(fiunraving)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 19.3926,
+              "y": -80.484,
+              "z": -29.995
+            },
+            "angles": {
+              "w": 0.946072,
+              "x": 0,
+              "y": 0,
+              "z": -0.323955
+            }
+          },
+          "objcell_id": 66018
+        }
+      },
+      {
+        "id": 1879052338,
+        "wcid": 28647,
+        "desc": "Raving Fiun(fiunraving)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 20.9408,
+              "y": -70.0188,
+              "z": -29.995
+            },
+            "angles": {
+              "w": 0.720924,
+              "x": 0,
+              "y": 0,
+              "z": -0.693014
+            }
+          },
+          "objcell_id": 66014
+        }
+      },
+      {
+        "id": 1879052339,
+        "wcid": 28647,
+        "desc": "Raving Fiun(fiunraving)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 10.7001,
+              "y": -90.0562,
+              "z": -29.995
+            },
+            "angles": {
+              "w": -0.695639,
+              "x": 0,
+              "y": 0,
+              "z": 0.718392
+            }
+          },
+          "objcell_id": 66006
+        }
+      },
+      {
+        "id": 1879052340,
+        "wcid": 28647,
+        "desc": "Raving Fiun(fiunraving)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 9.67,
+              "y": -109.96,
+              "z": -29.995
+            },
+            "angles": {
+              "w": -0.999784,
+              "x": 0,
+              "y": 0,
+              "z": -0.020795
+            }
+          },
+          "objcell_id": 66011
+        }
+      },
+      {
+        "id": 1879052341,
+        "wcid": 28647,
+        "desc": "Raving Fiun(fiunraving)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 19.9693,
+              "y": -120.364,
+              "z": -29.995
+            },
+            "angles": {
+              "w": -0.999963,
+              "x": 0,
+              "y": 0,
+              "z": 0.008619
+            }
+          },
+          "objcell_id": 66033
+        }
+      },
+      {
+        "id": 1879052342,
+        "wcid": 28647,
+        "desc": "Raving Fiun(fiunraving)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 39.8891,
+              "y": -119.797,
+              "z": -29.995
+            },
+            "angles": {
+              "w": 0.997166,
+              "x": 0,
+              "y": 0,
+              "z": 0.075228
+            }
+          },
+          "objcell_id": 66060
+        }
+      },
+      {
+        "id": 1879052343,
+        "wcid": 28647,
+        "desc": "Raving Fiun(fiunraving)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 49.7624,
+              "y": -110.079,
+              "z": -29.995
+            },
+            "angles": {
+              "w": 0.926723,
+              "x": 0,
+              "y": 0,
+              "z": -0.375746
+            }
+          },
+          "objcell_id": 66067
+        }
+      },
+      {
+        "id": 1879052344,
+        "wcid": 28647,
+        "desc": "Raving Fiun(fiunraving)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 58.811,
+              "y": -110.463,
+              "z": -29.995
+            },
+            "angles": {
+              "w": -0.994569,
+              "x": 0,
+              "y": 0,
+              "z": -0.104081
+            }
+          },
+          "objcell_id": 66075
+        }
+      },
+      {
+        "id": 1879052345,
+        "wcid": 28647,
+        "desc": "Raving Fiun(fiunraving)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 59.9942,
+              "y": -100.347,
+              "z": -29.995
+            },
+            "angles": {
+              "w": 0.999728,
+              "x": 0,
+              "y": 0,
+              "z": 0.023327
+            }
+          },
+          "objcell_id": 66072
+        }
+      },
+      {
+        "id": 1879052346,
+        "wcid": 28647,
+        "desc": "Raving Fiun(fiunraving)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 51.2765,
+              "y": -100.096,
+              "z": -29.995
+            },
+            "angles": {
+              "w": 0.712,
+              "x": 0,
+              "y": 0,
+              "z": -0.70218
+            }
+          },
+          "objcell_id": 66063
+        }
+      },
+      {
+        "id": 1879052347,
+        "wcid": 28647,
+        "desc": "Raving Fiun(fiunraving)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 30.259,
+              "y": -99.8896,
+              "z": -29.995
+            },
+            "angles": {
+              "w": 0.94453,
+              "x": 0,
+              "y": 0,
+              "z": -0.328425
+            }
+          },
+          "objcell_id": 66049
+        }
+      },
+      {
+        "id": 1879052348,
+        "wcid": 28640,
+        "desc": "Eater(eater)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 59.66,
+              "y": -98.67,
+              "z": -41.995
+            },
+            "angles": {
+              "w": 0.99995,
+              "x": 0,
+              "y": 0,
+              "z": 0.009999
+            }
+          },
+          "objcell_id": 65993
+        }
+      },
+      {
+        "id": 1879052349,
+        "wcid": 31225,
+        "desc": "Famished Eater(ace31225-famishedeater)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 59.06,
+              "y": -70.46,
+              "z": -41.995
+            },
+            "angles": {
+              "w": 0.99995,
+              "x": 0,
+              "y": 0,
+              "z": 0.009999
+            }
+          },
+          "objcell_id": 65990
+        }
+      },
+      {
+        "id": 1879052350,
+        "wcid": 28642,
+        "desc": "Engorged Eater(eaterengorged)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 37.3003,
+              "y": -69.6362,
+              "z": -41.995
+            },
+            "angles": {
+              "w": -0.636658,
+              "x": 0,
+              "y": 0,
+              "z": -0.771147
+            }
+          },
+          "objcell_id": 65987
+        }
+      },
+      {
+        "id": 1879052351,
+        "wcid": 28640,
+        "desc": "Eater(eater)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 49.8455,
+              "y": -69.8241,
+              "z": -65.995
+            },
+            "angles": {
+              "w": 0.001159,
+              "x": 0,
+              "y": 0,
+              "z": -0.999999
+            }
+          },
+          "objcell_id": 65942
+        }
+      },
+      {
+        "id": 1879052352,
+        "wcid": 31225,
+        "desc": "Famished Eater(ace31225-famishedeater)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 60.0541,
+              "y": -69.8116,
+              "z": -65.995
+            },
+            "angles": {
+              "w": -0.401074,
+              "x": 0,
+              "y": 0,
+              "z": -0.916046
+            }
+          },
+          "objcell_id": 65956
+        }
+      },
+      {
+        "id": 1879052353,
+        "wcid": 28642,
+        "desc": "Engorged Eater(eaterengorged)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 60.2624,
+              "y": -80.1274,
+              "z": -65.995
+            },
+            "angles": {
+              "w": -0.690803,
+              "x": 0,
+              "y": 0,
+              "z": -0.723043
+            }
+          },
+          "objcell_id": 65961
+        }
+      },
+      {
+        "id": 1879052354,
+        "wcid": 28640,
+        "desc": "Eater(eater)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 60.1869,
+              "y": -89.9313,
+              "z": -65.995
+            },
+            "angles": {
+              "w": -0.897915,
+              "x": 0,
+              "y": 0,
+              "z": -0.440168
+            }
+          },
+          "objcell_id": 65964
+        }
+      },
+      {
+        "id": 1879052355,
+        "wcid": 31225,
+        "desc": "Famished Eater(ace31225-famishedeater)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 50.0596,
+              "y": -89.9695,
+              "z": -65.995
+            },
+            "angles": {
+              "w": -0.999999,
+              "x": 0,
+              "y": 0,
+              "z": 0.001425
+            }
+          },
+          "objcell_id": 65948
+        }
+      },
+      {
+        "id": 1879052356,
+        "wcid": 28642,
+        "desc": "Engorged Eater(eaterengorged)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 39.9246,
+              "y": -89.597,
+              "z": -65.995
+            },
+            "angles": {
+              "w": -0.897791,
+              "x": 0,
+              "y": 0,
+              "z": 0.440421
+            }
+          },
+          "objcell_id": 65932
+        }
+      },
+      {
+        "id": 1879052357,
+        "wcid": 28640,
+        "desc": "Eater(eater)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 39.2237,
+              "y": -80.3058,
+              "z": -65.995
+            },
+            "angles": {
+              "w": 0.700416,
+              "x": 0,
+              "y": 0,
+              "z": -0.713734
+            }
+          },
+          "objcell_id": 65929
+        }
+      },
+      {
+        "id": 1879052358,
+        "wcid": 31225,
+        "desc": "Famished Eater(ace31225-famishedeater)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 40.5607,
+              "y": -70.6474,
+              "z": -65.995
+            },
+            "angles": {
+              "w": 0.371334,
+              "x": 0,
+              "y": 0,
+              "z": -0.9285
+            }
+          },
+          "objcell_id": 65924
+        }
+      },
+      {
+        "id": 1879052359,
+        "wcid": 28642,
+        "desc": "Engorged Eater(eaterengorged)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 70.7241,
+              "y": -60.4257,
+              "z": -65.995
+            },
+            "angles": {
+              "w": 0.05993,
+              "x": 0,
+              "y": 0,
+              "z": 0.998203
+            }
+          },
+          "objcell_id": 65969
+        }
+      },
+      {
+        "id": 1879052360,
+        "wcid": 28640,
+        "desc": "Eater(eater)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 70.0596,
+              "y": -99.8761,
+              "z": -65.995
+            },
+            "angles": {
+              "w": 0.996503,
+              "x": 0,
+              "y": 0,
+              "z": 0.083561
+            }
+          },
+          "objcell_id": 65979
+        }
+      },
+      {
+        "id": 1879052361,
+        "wcid": 31225,
+        "desc": "Famished Eater(ace31225-famishedeater)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 29.7514,
+              "y": -99.3456,
+              "z": -65.995
+            },
+            "angles": {
+              "w": -0.985083,
+              "x": 0,
+              "y": 0,
+              "z": 0.172078
+            }
+          },
+          "objcell_id": 65920
+        }
+      },
+      {
+        "id": 1879052362,
+        "wcid": 28642,
+        "desc": "Engorged Eater(eaterengorged)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 30.3,
+              "y": -61.34,
+              "z": -65.995
+            },
+            "angles": {
+              "w": -0.99995,
+              "x": 0,
+              "y": 0,
+              "z": 0.009999
+            }
+          },
+          "objcell_id": 65910
+        }
+      },
+      {
+        "id": 1879052363,
+        "wcid": 28640,
+        "desc": "Eater(eater)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 10.0001,
+              "y": -64.1292,
+              "z": -71.995
+            },
+            "angles": {
+              "w": -0.999924,
+              "x": 0,
+              "y": 0,
+              "z": -0.012351
+            }
+          },
+          "objcell_id": 65876
+        }
+      },
+      {
+        "id": 1879052364,
+        "wcid": 31225,
+        "desc": "Famished Eater(ace31225-famishedeater)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 19.63,
+              "y": -77.98,
+              "z": -71.995
+            },
+            "angles": {
+              "w": 0,
+              "x": 0,
+              "y": 0,
+              "z": -1
+            }
+          },
+          "objcell_id": 65887
+        }
+      },
+      {
+        "id": 1879052365,
+        "wcid": 28642,
+        "desc": "Engorged Eater(eaterengorged)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 10.35,
+              "y": -95.87,
+              "z": -71.995
+            },
+            "angles": {
+              "w": -0.029987,
+              "x": 0,
+              "y": 0,
+              "z": -0.99955
+            }
+          },
+          "objcell_id": 65883
+        }
+      },
+      {
+        "id": 1879052366,
+        "wcid": 28640,
+        "desc": "Eater(eater)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 89.9397,
+              "y": -96.3081,
+              "z": -71.995
+            },
+            "angles": {
+              "w": -0.016943,
+              "x": 0,
+              "y": 0,
+              "z": -0.999856
+            }
+          },
+          "objcell_id": 65903
+        }
+      },
+      {
+        "id": 1879052367,
+        "wcid": 31225,
+        "desc": "Famished Eater(ace31225-famishedeater)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 80.08,
+              "y": -81.08,
+              "z": -71.995
+            },
+            "angles": {
+              "w": 0.9998,
+              "x": 0,
+              "y": 0,
+              "z": -0.019996
+            }
+          },
+          "objcell_id": 65895
+        }
+      },
+      {
+        "id": 1879052368,
+        "wcid": 28642,
+        "desc": "Engorged Eater(eaterengorged)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 90.158,
+              "y": -63.8292,
+              "z": -71.995
+            },
+            "angles": {
+              "w": -0.986833,
+              "x": 0,
+              "y": 0,
+              "z": -0.161745
+            }
+          },
+          "objcell_id": 65900
+        }
+      },
+      {
+        "id": 1879052369,
+        "wcid": 28642,
+        "desc": "Engorged Eater(eaterengorged)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 59.85,
+              "y": -80.72,
+              "z": -77.995
+            },
+            "angles": {
+              "w": -0.019996,
+              "x": 0,
+              "y": 0,
+              "z": 0.9998
+            }
+          },
+          "objcell_id": 65869
+        }
+      },
+      {
+        "id": 1879052370,
+        "wcid": 28642,
+        "desc": "Engorged Eater(eaterengorged)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 59.9957,
+              "y": -99.9677,
+              "z": -83.995
+            },
+            "angles": {
+              "w": -0.911845,
+              "x": 0,
+              "y": 0,
+              "z": -0.410535
+            }
+          },
+          "objcell_id": 65850
+        }
+      },
+      {
+        "id": 1879052371,
+        "wcid": 28642,
+        "desc": "Engorged Eater(eaterengorged)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 39.8518,
+              "y": -99.9574,
+              "z": -83.995
+            },
+            "angles": {
+              "w": -0.907885,
+              "x": 0,
+              "y": 0,
+              "z": 0.419218
+            }
+          },
+          "objcell_id": 65834
+        }
+      },
+      {
+        "id": 1879052372,
+        "wcid": 28642,
+        "desc": "Engorged Eater(eaterengorged)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 39.61,
+              "y": -82.7,
+              "z": -77.995
+            },
+            "angles": {
+              "w": 0.99955,
+              "x": 0,
+              "y": 0,
+              "z": 0.029987
+            }
+          },
+          "objcell_id": 65857
+        }
+      },
+      {
+        "id": 1879052373,
+        "wcid": 28642,
+        "desc": "Engorged Eater(eaterengorged)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 40.1888,
+              "y": -119.85,
+              "z": -89.995
+            },
+            "angles": {
+              "w": 0.373799,
+              "x": 0,
+              "y": 0,
+              "z": -0.92751
+            }
+          },
+          "objcell_id": 65793
+        }
+      },
+      {
+        "id": 1879052374,
+        "wcid": 28642,
+        "desc": "Engorged Eater(eaterengorged)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 59.6807,
+              "y": -119.887,
+              "z": -89.995
+            },
+            "angles": {
+              "w": 0.36941,
+              "x": 0,
+              "y": 0,
+              "z": 0.929267
+            }
+          },
+          "objcell_id": 65823
+        }
+      },
+      {
+        "id": 1879052375,
+        "wcid": 28642,
+        "desc": "Engorged Eater(eaterengorged)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 59.8743,
+              "y": -140.193,
+              "z": -89.995
+            },
+            "angles": {
+              "w": 0.938877,
+              "x": 0,
+              "y": 0,
+              "z": 0.344252
+            }
+          },
+          "objcell_id": 65827
+        }
+      },
+      {
+        "id": 1879052376,
+        "wcid": 28642,
+        "desc": "Engorged Eater(eaterengorged)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 40.0135,
+              "y": -139.641,
+              "z": -89.995
+            },
+            "angles": {
+              "w": 0.92943,
+              "x": 0,
+              "y": 0,
+              "z": -0.369
+            }
+          },
+          "objcell_id": 65797
+        }
+      },
+      {
+        "id": 1879052377,
+        "wcid": 28849,
+        "desc": "Engorged Eater(eaterengorgedjawdropper)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 55.6091,
+              "y": -154.671,
+              "z": -89.995
+            },
+            "angles": {
+              "w": 0.999339,
+              "x": 0,
+              "y": 0,
+              "z": -0.036356
+            }
+          },
+          "objcell_id": 65829
+        }
+      },
+      {
+        "id": 1879052378,
+        "wcid": 28849,
+        "desc": "Engorged Eater(eaterengorgedjawdropper)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 55.8381,
+              "y": -160.745,
+              "z": -89.995
+            },
+            "angles": {
+              "w": 0.9981,
+              "x": 0,
+              "y": 0,
+              "z": -0.061608
+            }
+          },
+          "objcell_id": 65830
+        }
+      },
+      {
+        "id": 1879052379,
+        "wcid": 28849,
+        "desc": "Engorged Eater(eaterengorgedjawdropper)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 44.7769,
+              "y": -162.025,
+              "z": -89.995
+            },
+            "angles": {
+              "w": 0.998409,
+              "x": 0,
+              "y": 0,
+              "z": -0.056379
+            }
+          },
+          "objcell_id": 65800
+        }
+      },
+      {
+        "id": 1879052380,
+        "wcid": 28849,
+        "desc": "Engorged Eater(eaterengorgedjawdropper)",
+        "pos": {
+          "frame": {
+            "origin": {
+              "x": 42.069,
+              "y": -153.263,
+              "z": -89.995
+            },
+            "angles": {
+              "w": 0.997572,
+              "x": 0,
+              "y": 0,
+              "z": -0.069641
+            }
+          },
+          "objcell_id": 65799
+        }
+      }
+    ]
+  },
+  "desc": "65536(0001)"
+}

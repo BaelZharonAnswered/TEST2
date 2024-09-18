@@ -1,0 +1,148 @@
+{
+  "wcid": 38717757,
+  "weenieType": 27,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 1
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 41,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 0
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 19,
+      "value": 5
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 99,
+      "value": 1
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33560562
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 8,
+      "value": 100689890
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 39,
+      "value": 0.7
+    },
+    {
+      "key": 54,
+      "value": 3
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 0,
+      "value": ""
+    },
+    {
+      "key": 1,
+      "value": "Hand of Asheron Banner"
+    },
+    {
+      "key": 14,
+      "value": ""
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0,
+              "extent": 1,
+              "msg": "CelestialHandMember"
+            },
+            {
+              "type": 53,
+              "delay": 0,
+              "extent": 1,
+              "amount": 1,
+              "stat": 281
+            },
+            {
+              "type": 53,
+              "delay": 0,
+              "extent": 1,
+              "amount": 1,
+              "stat": 287
+            },
+            {
+              "type": 99,
+              "delay": 1,
+              "extent": 1
+            },
+            {
+              "type": 62,
+              "delay": 1,
+              "extent": 1,
+              "amount64": 15000
+            }
+          ],
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2024-09-18T18:55:25.2957706Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

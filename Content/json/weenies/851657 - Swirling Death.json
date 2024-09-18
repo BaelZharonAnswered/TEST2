@@ -1,0 +1,136 @@
+{
+  "wcid": 851657,
+  "weenieType": 13,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 0
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 1
+    },
+    {
+      "key": 14,
+      "value": 0
+    },
+    {
+      "key": 24,
+      "value": 1
+    },
+    {
+      "key": 55,
+      "value": 1
+    },
+    {
+      "key": 57,
+      "value": 0
+    },
+    {
+      "key": 65,
+      "value": 1
+    },
+    {
+      "key": 66,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 128
+    },
+    {
+      "key": 5,
+      "value": 1
+    },
+    {
+      "key": 8,
+      "value": 1
+    },
+    {
+      "key": 9,
+      "value": 0
+    },
+    {
+      "key": 16,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 1
+    },
+    {
+      "key": 44,
+      "value": 0
+    },
+    {
+      "key": 45,
+      "value": 32
+    },
+    {
+      "key": 93,
+      "value": 12
+    },
+    {
+      "key": 119,
+      "value": 0
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33556889
+    },
+    {
+      "key": 3,
+      "value": 536871007
+    },
+    {
+      "key": 8,
+      "value": 100667465
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 22,
+      "value": 0.5
+    },
+    {
+      "key": 39,
+      "value": 10
+    },
+    {
+      "key": 105,
+      "value": 5
+    },
+    {
+      "key": 106,
+      "value": 0.4
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Swirling Death"
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2024-09-16T23:42:53.7839051Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

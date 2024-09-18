@@ -1,0 +1,47 @@
+{
+  "key": 1,
+  "desc": "4747",
+  "recipe": {
+    "RecipeID": 0,
+    "Skill": 38,
+    "SkillCheckFormulaType": 0,
+    "DataID": 0,
+    "Difficulty": 55,
+    "SuccessWcid": 5324,
+    "SuccessAmount": 1,
+    "SuccessMessage": "You make a lightning infusion.",
+    "SuccessConsumeTargetAmount": 1,
+    "SuccessConsumeTargetChance": 1,
+    "SuccessConsumeToolAmount": 0,
+    "SuccessConsumeToolChance": 0,
+    "FailWcid": 0,
+    "FailAmount": 0,
+    "FailMessage": "You fail to make a lightning infusion.",
+    "FailureConsumeTargetAmount": 1,
+    "FailureConsumeTargetChance": 1,
+    "FailureConsumeToolAmount": 0,
+    "FailureConsumeToolChance": 0,
+    "Unknown": 0,
+    "Mods": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Requirements": [
+      null,
+      null,
+      null
+    ]
+  },
+  "precursors": [
+    {
+      "Tool": 4747,
+      "Target": 756
+    }
+  ]
+}

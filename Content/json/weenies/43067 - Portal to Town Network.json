@@ -1,0 +1,113 @@
+{
+  "wcid": 43067,
+  "weenieType": 7,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 1
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 15,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 65536
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 93,
+      "value": 3084
+    },
+    {
+      "key": 111,
+      "value": 129
+    },
+    {
+      "key": 133,
+      "value": 4
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554867
+    },
+    {
+      "key": 2,
+      "value": 150994947
+    },
+    {
+      "key": 8,
+      "value": 100667499
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": -0.1
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Portal to Town Network"
+    },
+    {
+      "key": 16,
+      "value": "This portal goes to the Town Network, a place which connects many of the towns of Dereth."
+    }
+  ],
+  "posStats": [
+    {
+      "key": 2,
+      "value": {
+        "frame": {
+          "origin": {
+            "x": 80,
+            "y": -70,
+            "z": 0.005
+          },
+          "angles": {
+            "w": -0.707107,
+            "x": 0,
+            "y": 0,
+            "z": -0.707107
+          }
+        },
+        "objcell_id": 459094
+      }
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2024-09-13T22:40:46.7241318Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

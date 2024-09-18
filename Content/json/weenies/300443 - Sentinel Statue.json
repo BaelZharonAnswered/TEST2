@@ -1,0 +1,144 @@
+{
+  "wcid": 300443,
+  "weenieType": 8,
+  "pageDataList": {
+    "maxNumCharsPerPage": 1000,
+    "maxNumPages": 1,
+    "pages": [
+      {
+        "authorID": 4294967295,
+        "authorName": "",
+        "ignoreAuthor": 1,
+        "pageText": "\n\nIn memory of those who served the peoples of Ispar in their time of need. A torch held high to hold the night at bay.\n\n\n            Strathelar's Order of Advocates\n              Asheron's Order of Sentinels\n      Portal Year One - Portal Year Eleven\n\n\n               You shall not be forgotten.\n"
+      }
+    ]
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 0
+    },
+    {
+      "key": 22,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 8192
+    },
+    {
+      "key": 3,
+      "value": 21
+    },
+    {
+      "key": 5,
+      "value": 4000
+    },
+    {
+      "key": 8,
+      "value": 2500
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 83,
+      "value": 4
+    },
+    {
+      "key": 93,
+      "value": 1040
+    },
+    {
+      "key": 119,
+      "value": 1
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33557020
+    },
+    {
+      "key": 2,
+      "value": 150995125
+    },
+    {
+      "key": 3,
+      "value": 536871026
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 7,
+      "value": 268436177
+    },
+    {
+      "key": 8,
+      "value": 100671531
+    },
+    {
+      "key": 19,
+      "value": 268435537
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 11,
+      "value": 3
+    },
+    {
+      "key": 12,
+      "value": 0.1
+    },
+    {
+      "key": 39,
+      "value": 5
+    },
+    {
+      "key": 54,
+      "value": 25
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Sentinel Statue"
+    },
+    {
+      "key": 14,
+      "value": "Use this statue to read its inscription."
+    },
+    {
+      "key": 15,
+      "value": "A memorial to those who served."
+    },
+    {
+      "key": 16,
+      "value": "A memorial to those who served."
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2024-09-16T22:58:44.0267621Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

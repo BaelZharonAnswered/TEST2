@@ -1,0 +1,81 @@
+{
+  "wcid": 30419,
+  "weenieType": 1,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 18,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 81,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 1
+    },
+    {
+      "key": 93,
+      "value": 1044
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33555051
+    },
+    {
+      "key": 8,
+      "value": 100667494
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 41,
+      "value": 300
+    },
+    {
+      "key": 43,
+      "value": 15
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Halaetan Low Coast Gen"
+    }
+  ],
+  "lastModified": "2024-09-18T00:37:44.7964695Z",
+  "modifiedBy": "ACE.Adapter",
+  "changelog": [
+    {
+      "created": "2024-09-16T20:37:59.0239287Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2024-09-17T12:59:26.774632Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2024-09-18T00:37:44.7881733Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "userChangeSummary": "Weenie exported from ACEmulator world database using ACE.Adapter",
+  "isDone": false
+}

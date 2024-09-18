@@ -1,0 +1,140 @@
+{
+  "wcid": 126,
+  "weenieType": 2,
+  "boolStats": [
+    {
+      "key": 22,
+      "value": 1
+    },
+    {
+      "key": 100,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 4
+    },
+    {
+      "key": 3,
+      "value": 9
+    },
+    {
+      "key": 4,
+      "value": 22
+    },
+    {
+      "key": 5,
+      "value": 135
+    },
+    {
+      "key": 8,
+      "value": 90
+    },
+    {
+      "key": 9,
+      "value": 196
+    },
+    {
+      "key": 16,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 30
+    },
+    {
+      "key": 27,
+      "value": 1
+    },
+    {
+      "key": 28,
+      "value": 0
+    },
+    {
+      "key": 93,
+      "value": 1044
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554653
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 6,
+      "value": 67108990
+    },
+    {
+      "key": 7,
+      "value": 268435458
+    },
+    {
+      "key": 8,
+      "value": 100667368
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    },
+    {
+      "key": 36,
+      "value": 234881046
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 12,
+      "value": 0.6
+    },
+    {
+      "key": 13,
+      "value": 0.8
+    },
+    {
+      "key": 14,
+      "value": 0.8
+    },
+    {
+      "key": 15,
+      "value": 1
+    },
+    {
+      "key": 16,
+      "value": 0.2
+    },
+    {
+      "key": 17,
+      "value": 0.2
+    },
+    {
+      "key": 18,
+      "value": 0.1
+    },
+    {
+      "key": 19,
+      "value": 0.2
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Leggings"
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2024-09-13T17:28:29.4687283Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

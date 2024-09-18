@@ -1,0 +1,165 @@
+{
+  "wcid": 387195757,
+  "weenieType": 27,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 1
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    },
+    {
+      "key": 41,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 2,
+      "value": 0
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 19,
+      "value": 5
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 99,
+      "value": 1
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33560564
+    },
+    {
+      "key": 3,
+      "value": 536870932
+    },
+    {
+      "key": 8,
+      "value": 100689890
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 39,
+      "value": 0.7
+    },
+    {
+      "key": 54,
+      "value": 3
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 0,
+      "value": ""
+    },
+    {
+      "key": 1,
+      "value": "Bael' Zharon Blood Banner"
+    },
+    {
+      "key": 14,
+      "value": ""
+    }
+  ],
+  "emoteTable": [
+    {
+      "key": 7,
+      "value": [
+        {
+          "category": 7,
+          "emotes": [
+            {
+              "type": 22,
+              "delay": 0,
+              "extent": 1,
+              "msg": "RadiantBloodMember"
+            },
+            {
+              "type": 53,
+              "delay": 0,
+              "extent": 1,
+              "amount": 4,
+              "stat": 281
+            },
+            {
+              "type": 53,
+              "delay": 0,
+              "extent": 1,
+              "amount": 1,
+              "stat": 99
+            },
+            {
+              "type": 53,
+              "delay": 0,
+              "extent": 1,
+              "amount": 1,
+              "stat": 289
+            },
+            {
+              "type": 99,
+              "delay": 1,
+              "extent": 1,
+              "mPosition": {
+                "frame": {
+                  "origin": {
+                    "x": 149.919,
+                    "y": 78.8485,
+                    "z": 2.266
+                  },
+                  "angles": {
+                    "w": -0.546132,
+                    "x": 0,
+                    "y": 0,
+                    "z": -0.837699
+                  }
+                },
+                "objcell_id": 601489460
+              }
+            }
+          ],
+          "probability": 1
+        }
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2024-09-18T17:18:50.0927508Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

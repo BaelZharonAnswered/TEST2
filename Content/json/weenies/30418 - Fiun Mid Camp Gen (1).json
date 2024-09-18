@@ -1,0 +1,76 @@
+{
+  "wcid": 30418,
+  "weenieType": 1,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 18,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 81,
+      "value": 3
+    },
+    {
+      "key": 82,
+      "value": 3
+    },
+    {
+      "key": 93,
+      "value": 1044
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33555051
+    },
+    {
+      "key": 8,
+      "value": 100667494
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 41,
+      "value": 600
+    },
+    {
+      "key": 43,
+      "value": 15
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Fiun Mid Camp Gen"
+    }
+  ],
+  "lastModified": "2024-09-17T12:59:24.5599812Z",
+  "modifiedBy": "ACE.Adapter",
+  "changelog": [
+    {
+      "created": "2024-09-17T12:49:11.3743908Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2024-09-17T12:59:24.5596759Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "userChangeSummary": "Weenie exported from ACEmulator world database using ACE.Adapter",
+  "isDone": false
+}

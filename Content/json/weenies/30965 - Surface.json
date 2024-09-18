@@ -1,0 +1,117 @@
+{
+  "wcid": 30965,
+  "weenieType": 7,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 0
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 13,
+      "value": 1
+    },
+    {
+      "key": 15,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 65536
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 26,
+      "value": 1
+    },
+    {
+      "key": 93,
+      "value": 3084
+    },
+    {
+      "key": 111,
+      "value": 1
+    },
+    {
+      "key": 133,
+      "value": 4
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554867
+    },
+    {
+      "key": 2,
+      "value": 150994947
+    },
+    {
+      "key": 8,
+      "value": 100667499
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 54,
+      "value": -0.1
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Surface"
+    }
+  ],
+  "posStats": [
+    {
+      "key": 2,
+      "value": {
+        "frame": {
+          "origin": {
+            "x": 60,
+            "y": 108,
+            "z": 102.005
+          },
+          "angles": {
+            "w": 0.999687,
+            "x": 0,
+            "y": 0,
+            "z": -0.024997
+          }
+        },
+        "objcell_id": 1140260885
+      }
+    }
+  ],
+  "lastModified": "2024-09-13T19:13:51.9831933Z",
+  "modifiedBy": "ACE.Adapter",
+  "changelog": [
+    {
+      "created": "2024-09-13T18:56:16.8109984Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    },
+    {
+      "created": "2024-09-13T19:13:51.9767537Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "userChangeSummary": "Weenie exported from ACEmulator world database using ACE.Adapter",
+  "isDone": false
+}

@@ -1,0 +1,1015 @@
+{
+  "wcid": 30419,
+  "weenieType": 1,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 18,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 81,
+      "value": 1
+    },
+    {
+      "key": 82,
+      "value": 1
+    },
+    {
+      "key": 93,
+      "value": 1044
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33555051
+    },
+    {
+      "key": 8,
+      "value": 100667494
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 41,
+      "value": 300
+    },
+    {
+      "key": 43,
+      "value": 15
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Halaetan Low Coast Gen"
+    }
+  ],
+  "generatorTable": [
+    {
+      "delay": 500,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.05000000074505806,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 0,
+      "stackSize": -1,
+      "type": 30405,
+      "whenCreate": 1,
+      "whereCreate": 2
+    },
+    {
+      "delay": 500,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.10000000149011612,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 1,
+      "stackSize": -1,
+      "type": 30417,
+      "whenCreate": 1,
+      "whereCreate": 2
+    },
+    {
+      "delay": 500,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.12999999523162842,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 2,
+      "stackSize": -1,
+      "type": 29298,
+      "whenCreate": 1,
+      "whereCreate": 2
+    },
+    {
+      "delay": 500,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.17000000178813934,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 3,
+      "stackSize": -1,
+      "type": 29299,
+      "whenCreate": 1,
+      "whereCreate": 2
+    },
+    {
+      "delay": 500,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.19519999623298645,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 4,
+      "stackSize": -1,
+      "type": 20191,
+      "whenCreate": 1,
+      "whereCreate": 2
+    },
+    {
+      "delay": 500,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.22040000557899475,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 5,
+      "stackSize": -1,
+      "type": 8672,
+      "whenCreate": 1,
+      "whereCreate": 2
+    },
+    {
+      "delay": 500,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.24560000002384186,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 6,
+      "stackSize": -1,
+      "type": 1758,
+      "whenCreate": 1,
+      "whereCreate": 2
+    },
+    {
+      "delay": 500,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.2856000065803528,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 7,
+      "stackSize": -1,
+      "type": 29296,
+      "whenCreate": 1,
+      "whereCreate": 2
+    },
+    {
+      "delay": 500,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.3107999861240387,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 8,
+      "stackSize": -1,
+      "type": 2576,
+      "whenCreate": 1,
+      "whereCreate": 2
+    },
+    {
+      "delay": 500,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.335999995470047,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 9,
+      "stackSize": -1,
+      "type": 213,
+      "whenCreate": 1,
+      "whereCreate": 2
+    },
+    {
+      "delay": 500,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.3612000048160553,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 10,
+      "stackSize": -1,
+      "type": 2575,
+      "whenCreate": 1,
+      "whereCreate": 2
+    },
+    {
+      "delay": 500,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.3912000060081482,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 11,
+      "stackSize": -1,
+      "type": 8672,
+      "whenCreate": 1,
+      "whereCreate": 2
+    },
+    {
+      "delay": 500,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.4163999855518341,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 12,
+      "stackSize": -1,
+      "type": 2576,
+      "whenCreate": 1,
+      "whereCreate": 2
+    },
+    {
+      "delay": 500,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.4564000070095062,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 13,
+      "stackSize": -1,
+      "type": 28672,
+      "whenCreate": 1,
+      "whereCreate": 2
+    },
+    {
+      "delay": 500,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.4864000082015991,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 14,
+      "stackSize": -1,
+      "type": 28649,
+      "whenCreate": 1,
+      "whereCreate": 2
+    },
+    {
+      "delay": 500,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.5163999795913696,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 15,
+      "stackSize": -1,
+      "type": 28646,
+      "whenCreate": 1,
+      "whereCreate": 2
+    },
+    {
+      "delay": 500,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.5415999889373779,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 16,
+      "stackSize": -1,
+      "type": 29356,
+      "whenCreate": 1,
+      "whereCreate": 2
+    },
+    {
+      "delay": 500,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.5716000199317932,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 17,
+      "stackSize": -1,
+      "type": 28666,
+      "whenCreate": 1,
+      "whereCreate": 2
+    },
+    {
+      "delay": 500,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.5968000292778015,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 18,
+      "stackSize": -1,
+      "type": 1762,
+      "whenCreate": 1,
+      "whereCreate": 2
+    },
+    {
+      "delay": 500,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.621999979019165,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 19,
+      "stackSize": -1,
+      "type": 7992,
+      "whenCreate": 1,
+      "whereCreate": 2
+    },
+    {
+      "delay": 500,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.6471999883651733,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 20,
+      "stackSize": -1,
+      "type": 1608,
+      "whenCreate": 1,
+      "whereCreate": 2
+    },
+    {
+      "delay": 500,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.6723999977111816,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 21,
+      "stackSize": -1,
+      "type": 14521,
+      "whenCreate": 1,
+      "whereCreate": 2
+    },
+    {
+      "delay": 500,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.6976000070571899,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 22,
+      "stackSize": -1,
+      "type": 1484,
+      "whenCreate": 1,
+      "whereCreate": 2
+    },
+    {
+      "delay": 500,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.7228000164031982,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 23,
+      "stackSize": -1,
+      "type": 21168,
+      "whenCreate": 1,
+      "whereCreate": 2
+    },
+    {
+      "delay": 500,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.7480000257492065,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 24,
+      "stackSize": -1,
+      "type": 24959,
+      "whenCreate": 1,
+      "whereCreate": 2
+    },
+    {
+      "delay": 500,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.7731999754905701,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 25,
+      "stackSize": -1,
+      "type": 217,
+      "whenCreate": 1,
+      "whereCreate": 2
+    },
+    {
+      "delay": 500,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.7983999848365784,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 26,
+      "stackSize": -1,
+      "type": 28670,
+      "whenCreate": 1,
+      "whereCreate": 2
+    },
+    {
+      "delay": 500,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.8235999941825867,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 27,
+      "stackSize": -1,
+      "type": 22208,
+      "whenCreate": 1,
+      "whereCreate": 2
+    },
+    {
+      "delay": 500,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.848800003528595,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 28,
+      "stackSize": -1,
+      "type": 7345,
+      "whenCreate": 1,
+      "whereCreate": 2
+    },
+    {
+      "delay": 500,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.8740000128746033,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 29,
+      "stackSize": -1,
+      "type": 22810,
+      "whenCreate": 1,
+      "whereCreate": 2
+    },
+    {
+      "delay": 500,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.8992000222206116,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 30,
+      "stackSize": -1,
+      "type": 28671,
+      "whenCreate": 1,
+      "whereCreate": 2
+    },
+    {
+      "delay": 500,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.9243999719619751,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 31,
+      "stackSize": -1,
+      "type": 1630,
+      "whenCreate": 1,
+      "whereCreate": 2
+    },
+    {
+      "delay": 500,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.9495999813079834,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 32,
+      "stackSize": -1,
+      "type": 619,
+      "whenCreate": 1,
+      "whereCreate": 2
+    },
+    {
+      "delay": 500,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 0.9747999906539917,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 33,
+      "stackSize": -1,
+      "type": 7121,
+      "whenCreate": 1,
+      "whereCreate": 2
+    },
+    {
+      "delay": 500,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 0,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": 1,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 34,
+      "stackSize": -1,
+      "type": 14517,
+      "whenCreate": 1,
+      "whereCreate": 2
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2024-09-16T20:30:01.2833022Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}

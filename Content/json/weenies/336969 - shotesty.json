@@ -1,0 +1,362 @@
+{
+  "wcid": 336969,
+  "weenieType": 20,
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 2,
+      "value": 0
+    },
+    {
+      "key": 3,
+      "value": 1
+    },
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 12,
+      "value": 1
+    },
+    {
+      "key": 14,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 1
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 512
+    },
+    {
+      "key": 5,
+      "value": 14750
+    },
+    {
+      "key": 6,
+      "value": 120
+    },
+    {
+      "key": 7,
+      "value": 10
+    },
+    {
+      "key": 16,
+      "value": 48
+    },
+    {
+      "key": 19,
+      "value": 2500
+    },
+    {
+      "key": 38,
+      "value": 9999
+    },
+    {
+      "key": 82,
+      "value": 8
+    },
+    {
+      "key": 93,
+      "value": 1048
+    },
+    {
+      "key": 100,
+      "value": 1
+    },
+    {
+      "key": 173,
+      "value": 0
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554556
+    },
+    {
+      "key": 2,
+      "value": 150994948
+    },
+    {
+      "key": 3,
+      "value": 536870945
+    },
+    {
+      "key": 8,
+      "value": 100667424
+    },
+    {
+      "key": 22,
+      "value": 872415275
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 11,
+      "value": 1
+    },
+    {
+      "key": 41,
+      "value": 1
+    },
+    {
+      "key": 43,
+      "value": 1
+    },
+    {
+      "key": 54,
+      "value": 1
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "shotesty"
+    },
+    {
+      "key": 12,
+      "value": "pathwardenchestkey"
+    },
+    {
+      "key": 14,
+      "value": "Use this item to open it and see its contents."
+    }
+  ],
+  "generatorTable": [
+    {
+      "delay": 0,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 1,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": -1,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 0,
+      "stackSize": -1,
+      "type": 41513,
+      "whenCreate": 2,
+      "whereCreate": 8
+    },
+    {
+      "delay": 0,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 1,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": -1,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 1,
+      "stackSize": -1,
+      "type": 4616,
+      "whenCreate": 2,
+      "whereCreate": 8
+    },
+    {
+      "delay": 0,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 1,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": -1,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 2,
+      "stackSize": -1,
+      "type": 33599,
+      "whenCreate": 2,
+      "whereCreate": 8
+    },
+    {
+      "delay": 0,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 1,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": -1,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 3,
+      "stackSize": -1,
+      "type": 33603,
+      "whenCreate": 2,
+      "whereCreate": 8
+    },
+    {
+      "delay": 0,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 1,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": -1,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 4,
+      "stackSize": -1,
+      "type": 40455,
+      "whenCreate": 2,
+      "whereCreate": 8
+    },
+    {
+      "delay": 0,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 1,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": -1,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 5,
+      "stackSize": -1,
+      "type": 33605,
+      "whenCreate": 2,
+      "whereCreate": 8
+    },
+    {
+      "delay": 0,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 1,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": -1,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 6,
+      "stackSize": -1,
+      "type": 7511,
+      "whenCreate": 2,
+      "whereCreate": 8
+    },
+    {
+      "delay": 0,
+      "frame": {
+        "origin": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "angles": {
+          "w": 1,
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "initCreate": 1,
+      "maxNum": 1,
+      "objcell_id": 0,
+      "probability": -1,
+      "ptid": 0,
+      "shade": 0,
+      "slot": 7,
+      "stackSize": -1,
+      "type": 33606,
+      "whenCreate": 2,
+      "whereCreate": 8
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2024-09-14T19:05:18.4009981Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}
